@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... the money 🙃
 - 💬 Ask me about ... The things I'm good at
 - 📫 How to reach me: ... frsdjefaflia@gmail.com
-- 😄 Pronouns: ... He 
 - ⚡ Fun fact: ... I intj
