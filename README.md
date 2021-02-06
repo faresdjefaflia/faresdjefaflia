@@ -7,3 +7,5 @@
 - 💬 Ask me about ... The things I'm good at
 - 📫 How to reach me: ... frsdjefaflia@gmail.com
 - ⚡ Fun fact: ... I intj
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsdjefaflia)](https://github.com/anuraghazra/github-readme-stats)
