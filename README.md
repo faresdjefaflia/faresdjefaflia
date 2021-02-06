@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... frsdjefaflia@gmail.com
 - ⚡ Fun fact: ... I intj
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsdjefaflia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsdjefaflia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
