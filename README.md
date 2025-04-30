@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a href="faresdjefaflia.github.io/en/">me</a> .
-    <a href="faresdjefaflia.github.io/en/portfolio/">projects</a> .
-    <a href="faresdjefaflia.github.io/en/blog/">blog</a> .
+    <a href="https://faresdjefaflia.github.io/en/">me</a> .
+    <a href="https://faresdjefaflia.github.io/en/portfolio/">projects</a> .
+    <a href="https://faresdjefaflia.github.io/en/blog/">blog</a> .
     <a href="https://twitter.com/_frs99">x (twitter)</a>
   </samp>
 </p>
